@@ -1,4 +1,10 @@
-/* raw version */
+/**
+ * raw version:
+ * ----Runtime: 112 ms
+ * --------beats 82.80 % of c submissions.
+ * ----Memory Usage: 7.6 MB
+ * --------beats 84.38 % of c submissions.
+ */
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
@@ -20,7 +26,13 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     return NULL;
 }
 
-/* qsort & bsearch version */
+/* 
+ * qsort & bsearch version:
+ * ----Runtime: 4 ms
+ * --------beats 99.64 % of c submissions.
+ * ----Memory Usage: 8.1 MB
+ * --------beats 6.25 % of c submissions.
+ */
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
