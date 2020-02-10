@@ -2,8 +2,8 @@
  * raw version:
  * ----Runtime: 8 ms
  * --------beats 97.05 % of c submissions.
- * ----Memory Usage: 8.9 MB
- * --------beats 64.00 % of c submissions.
+ * ----Memory Usage: 8.3 MB
+ * --------beats 100.00 % of c submissions.
  */
 /**
  * Definition for singly-linked list.
