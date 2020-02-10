@@ -3,7 +3,7 @@
  * ----Runtime: 0 ms
  * --------beats 100 % of c submissions.
  * ----Memory Usage: 7.1 MB
- * --------beats 95.24 % of c submissions.
+ * --------beats 100 % of c submissions.
  */
 int lengthOfLongestSubstring(char * s){
     int max = 0, start = 0, index;
